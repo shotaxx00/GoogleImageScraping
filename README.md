@@ -33,7 +33,7 @@ python GoogleImageScraping.py -k [keyword] -n [number] -p [path]
 - number : Number of download
 - path : Path to save image
 
-#### Exsample(Demo)
+#### Example(Demo)
 
 ```
 python GoogleImageScraping.py -k dog -n 30 -p ./download
